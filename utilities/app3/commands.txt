@@ -1,0 +1,15 @@
+#Using switch git user accounts 
+$ cd ~
+$ mkdir project
+$ cd project
+$ git init
+
+$ git config user.name "John Doe"
+$ git config user.email "johndoe@example.org"
+
+$ echo "created some changes" > readme
+$ git add .
+$ git commit -m "Some commit"
+
+$ git remote add origin github.com-otheruser:someuser/somerepo.git
+$ git push origin master
