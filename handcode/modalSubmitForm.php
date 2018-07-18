@@ -1,6 +1,5 @@
 <form action="{{ url('contact')}}" method="POST">
     {{ csrf_field() }}
-    
     <h5 class="mb-2">Basic Info</h5>
     <div class="form-group">
        <label for="name">Name:</label>
