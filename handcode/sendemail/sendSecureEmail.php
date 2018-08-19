@@ -1,6 +1,6 @@
 <?php
 if(isset($_POST["submit"])){
-// Checking For Blank Fields..
+// Checking For Blank Fields. and defaults to specified page.
 if($_POST["vname"]==""||$_POST["vemail"]==""||$_POST["sub"]==""||$_POST["msg"]==""){
 echo "Fill All Fields..";
 }else{
