@@ -11,5 +11,6 @@ $ echo "created some changes" > readme
 $ git add .
 $ git commit -m "Some commit"
 
+#not entirely correct
 $ git remote add origin github.com-otheruser:someuser/somerepo.git
 $ git push origin master
