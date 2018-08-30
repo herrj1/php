@@ -236,6 +236,7 @@ componentWillMount(){
   }).catch(error => {
 
   })
+  //test print
   //console.log(this.props.id)
 }
 
