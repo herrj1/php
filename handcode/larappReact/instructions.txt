@@ -251,7 +251,7 @@ public function show($id){
 step 29
 edit lines under 
 
-constructor(){...}
+constructor(){....}
 
 componentWillMount(){
   let id = this.props.id
