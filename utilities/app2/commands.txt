@@ -4,7 +4,7 @@ $ mkdir project
 $ cd project
 $ git init
 
-$ git config user.name "John Doe"
+$ git config user.name "John Does"
 $ git config user.email "johndoe@example.org"
 
 $ echo "created some changes" > readme
