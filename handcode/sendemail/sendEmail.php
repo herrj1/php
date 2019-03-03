@@ -14,7 +14,7 @@
 <h3>FeedBack Form</h3>
 <p>This is feedback form. Send us your feedback !</p>
 </div>
-<!-- Feedback Form -->
+<!-- Feedback Forms -->
 <form action="#" id="form" method="post" name="form">
 <input name="vname" placeholder="Your Name" type="text" value="">
 <input name="vemail" placeholder="Your Email" type="text" value="">
