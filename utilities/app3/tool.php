@@ -1,5 +1,4 @@
 <?php
-
 $ACCESS_PWD='';
 
 #DB connection settings
