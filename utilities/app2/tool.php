@@ -1,5 +1,4 @@
 <?php
-
 $ACCESS_PWD='';
 $DBDEF=array(
 'user'=>"",#required
