@@ -76,7 +76,6 @@ constructor(){
     data: []
   }
 }
-
 componentsWillMount(){
   let $this = this;
 }
