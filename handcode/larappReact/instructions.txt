@@ -10,7 +10,7 @@ step 3
 npm install && npm run dev
 
 step 4
-go into resources->assets->js->components->Example.js and edit
+go into resources->assets->js->components-->Example.js and edit
 
 step 5
 resources->views->welcome.blade.php and add the following
