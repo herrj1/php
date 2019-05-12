@@ -8,7 +8,7 @@ echo "Fill All Fields..";
 $email=$_POST['vemail'];
 // Sanitize E-mail Address
 $email =filter_var($email, FILTER_SANITIZE_EMAIL);
-// Validate E-mail Address
+// Validate E-mail Addresses
 $email= filter_var($email, FILTER_VALIDATE_EMAIL);
 if (!$email){
 echo "Invalid Sender's Email";
