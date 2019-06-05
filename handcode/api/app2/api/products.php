@@ -1,5 +1,5 @@
 <?php
-//by herrj1
+//designed and implemented by herrj1
 //Connect to database
 $connection=mysqli_connect('localhost','root','','apiapp2');
 
