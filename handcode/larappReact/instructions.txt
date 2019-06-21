@@ -1,5 +1,4 @@
 Laravel + reactjs
-
 step 1
 laravel new lara-react
 
