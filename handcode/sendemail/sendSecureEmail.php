@@ -4,7 +4,7 @@ if(isset($_POST["submit"])){
 if($_POST["vname"]==""||$_POST["vemail"]==""||$_POST["sub"]==""||$_POST["msg"]==""){
 echo "Fill All Fields..";
 }else{
-// Check if the "Sender's Email" input field is filled out
+// Check if the "Sender's Email" input field is filled outs
 $email=$_POST['vemail'];
 // Sanitize E-mail Address
 $email =filter_var($email, FILTER_SANITIZE_EMAIL);
