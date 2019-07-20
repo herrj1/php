@@ -4,8 +4,7 @@ $ mkdir project
 $ cd project
 $ git init
 
-
-#Assigns temporary github account
+#Assign temporary github account
 $ git config user.name "John Doe"
 $ git config user.email "johndoe@example.org"
 
