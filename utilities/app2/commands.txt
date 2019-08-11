@@ -1,4 +1,4 @@
-#Using switch git user accounts 
+##Using switch git user accounts 
 $ cd ~
 $ mkdir project
 $ cd project
