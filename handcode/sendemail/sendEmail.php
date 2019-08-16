@@ -4,7 +4,7 @@
 <title>FeedBack email on form submission</title>
 <link href="css/style.css" rel="stylesheet">
 </head>
-<!-- Body Starts Here -->
+<!-- Body Starts Her-->
 <body>
 <div class="container">
 <!-- Feedback Form Starts Here -->
