@@ -10,4 +10,4 @@ $DBDEF=array(
 'port' => '3306',
 'chset' => 'utf8',
 );
-//implementation redacted
+//implementation redacting
