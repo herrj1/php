@@ -4,9 +4,9 @@ $ACCESS_PWD='';
 $DBDEF=array(
 'user'=>"",#required
 'pwd'=>"", #required
-'db'=>"",  #optional, default DB
-'host'=>"",#optional
-'port'=>"",#optional
+'db'=>"",  #optionals, default DB
+'host'=>"",#optionals
+'port'=>"",#optionals
 'chset'=>"utf8",#optional, default charset
 );
 
