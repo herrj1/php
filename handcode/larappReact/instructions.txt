@@ -83,7 +83,7 @@ step 11
 nom install axios --save
 
 step 12
-go to resources->assets->js->app.js and add:
+Go to resources->assets->js->app.js and add:
 window.axios = require('axios');
 
 step 13
@@ -105,8 +105,7 @@ npm run watch [if it is not running.]
 step 15
 add the following to User.js
 <tbody>
- [this.state.data.map((user, i) => {
-    <tr>
+ [this.state.data.map((user, i) => {    <tr>
       <td>[user.id]</td>
       <td>[user.name]</td>
       <td>[user.email]</td>
