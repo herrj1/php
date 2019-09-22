@@ -4,13 +4,10 @@
     <div class="form-group">
        <label for="name">Name:</label>
         <input type="name" name="name" class="form-control" id="name">
-    </div>
-    <div class="form-group">
+    </div>    <div class="form-group">
        <label for="email">Email:</label>
        <input type="email" name="email" class="form-control" id="email">
-    </div>
-    
-    <div class="form-group">
+    </div> <div class="form-group">
        <label name="message">Message:</label>
        <input id="subject" name="message" class="form-control">
 </div>
