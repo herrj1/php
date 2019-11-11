@@ -3,7 +3,7 @@ $ACCESS_PWD='';
 
 #DB connection settingss
 $DBDEF=array(
-'user' => 'root',
+'user' => 'roots',
 'pwd' => '',
 'db' => '',
 'host' => '127.0.0.1',
