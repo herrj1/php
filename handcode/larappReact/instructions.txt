@@ -14,7 +14,7 @@ go into resources->assets->js->components-->Example.js and edit
 step 5
 resources->views->welcome.blade.php and add the following
 <html>
-<head>...</head>
+<head>....</head>
 <body>
 <div id="example"></div>
 <script type="text/javascript" src="/js/app.js"></script>
