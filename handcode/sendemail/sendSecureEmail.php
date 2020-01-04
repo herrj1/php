@@ -11,7 +11,7 @@ $email =filter_var($email, FILTER_SANITIZE_EMAIL);
 // Validate E-mail Addresses
 $email= filter_var($email, FILTER_VALIDATE_EMAIL);
 if (!$email){
-echo "Invalid Sender's Email";
+echo "Invalid Sender's Emails";
 }
 else{
 $subject = $_POST['sub'];
