@@ -1,6 +1,6 @@
 <?php
 //designed and implemented by herrj1
-//Connect to databasesa
+//Connect to databasesas
 $connection=mysqli_connect('localhost','root','','apiapp2');
 
 $request_method=$_SERVER["REQUEST_METHOD"];
