@@ -1,5 +1,7 @@
 <?php
+
 $ACCESS_PWD='';
+
 #DB connection settingss
 $DBDEF=array(
 'user' => 'roots',
