@@ -9,4 +9,4 @@ $DBDEF=array(
 'chset'=>"utf8",#optional, default charset
 );
 
-//implementation redact floor it
+//implementation redact floor its
