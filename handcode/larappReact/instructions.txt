@@ -5,10 +5,8 @@ laravel new lara-react
 step 2
 php artisan preset react
 
-
 step 3
 npm install && npm run dev
-
 
 step 4
 go into resources->assets->js->components-->Example.js and edit
