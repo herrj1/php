@@ -12,6 +12,4 @@ $DBDEF=array(
 'chset' => 'utf8',
 );
 
-
-
-//implementation redacting
+//implementation redacts
